@@ -1,3 +1,4 @@
+<img width="830" height="759" alt="EDM EX  1 1" src="https://github.com/user-attachments/assets/f5bd660d-e663-45ab-b9b5-3f97f89c832d" />
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
